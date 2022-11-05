@@ -1,4 +1,4 @@
-# ZuoYeBuBang
+# 作业不帮/ZuoYeBuBang
 简体中文，Chinese。
 
 作业不帮，Nick工作室制作。
